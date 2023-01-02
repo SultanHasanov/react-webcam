@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b6bf1829.css","mappings":"AAAA,KACE,iBACF,CAGA,QACE,WAEF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n\n\n.webCam{\n  width: 300px;\n  \n}"],"names":[],"sourceRoot":""}

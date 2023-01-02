@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-webcam/static/css/main.b6bf1829.css",
+    "main.js": "/react-webcam/static/js/main.5d25db0a.js",
+    "index.html": "/react-webcam/index.html",
+    "main.b6bf1829.css.map": "/react-webcam/static/css/main.b6bf1829.css.map",
+    "main.5d25db0a.js.map": "/react-webcam/static/js/main.5d25db0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6bf1829.css",
+    "static/js/main.5d25db0a.js"
+  ]
+}
